@@ -1,6 +1,6 @@
 class RoadTaxCalculator{
 	public static void main(String args[]){
-	String stateName = "J&K";
+	String stateName = "KA";
 	int vehiclePrice = 200;
 	int tax;
 	
